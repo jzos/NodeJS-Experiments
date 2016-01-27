@@ -1,0 +1,2 @@
+{"level":"info","message":"Hello distributed log files!","timestamp":"2016-01-27T03:03:11.744Z"}
+{"level":"error","message":"Who let the dogs out?!","timestamp":"2016-01-27T03:03:11.745Z"}
